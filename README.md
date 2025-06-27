@@ -4,5 +4,5 @@ Very simple game made with AGK(AppGameKit), made in the first year of Computer S
 
 # 🎮How to Play?
 1. Open the Folder `KatanaSparkFinal`.
-2. Open the .exe `KatanaSparkFinal.exe`.
+2. Open the .exe `KatanaSpark.exe`.
 3. Done it.
